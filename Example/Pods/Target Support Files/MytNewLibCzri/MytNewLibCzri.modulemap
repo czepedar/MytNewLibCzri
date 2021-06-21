@@ -1,0 +1,6 @@
+framework module MytNewLibCzri {
+  umbrella header "MytNewLibCzri-umbrella.h"
+
+  export *
+  module * { export * }
+}

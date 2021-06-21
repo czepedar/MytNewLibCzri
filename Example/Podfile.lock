@@ -1,0 +1,16 @@
+PODS:
+  - MytNewLibCzri (0.1.0)
+
+DEPENDENCIES:
+  - MytNewLibCzri (from `../`)
+
+EXTERNAL SOURCES:
+  MytNewLibCzri:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MytNewLibCzri: 35aeaf5d8a7c0e8ae6b490015b02d59849f9c5de
+
+PODFILE CHECKSUM: 3d2923104d787837828b1a21aeb3320945b67ab5
+
+COCOAPODS: 1.10.1
